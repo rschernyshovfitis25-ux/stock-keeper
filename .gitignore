@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.sqlite3
+.pytest_cache/
+.coverage
+htmlcov/
+staticfiles/
+media/
+
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+npm-debug.log*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*.docx
